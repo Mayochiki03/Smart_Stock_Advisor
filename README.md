@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTM (stock_analysis7.py)
 
 ## ภาพรวม
 โปรเจกต์ **Stock Price Prediction using LSTM** ใช้เทคนิค **Long Short-Term Memory (LSTM)** ในการทำนายราคาหุ้นจากข้อมูลราคาหุ้นย้อนหลัง โดยโปรเจกต์นี้สามารถทำนายราคาหุ้นในวันถัดไป พร้อมแสดงกราฟราคาหุ้นจริงและราคาหุ้นที่ทำนายได้จากโมเดล LSTM.

@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 class StockAnalyzer:
     def __init__(self, stocks, news_api_key):
         self.stocks = stocks
-        self.news_api_key = news_api_key
+        self.news_api_key = news_api_key 
         self.model = LinearRegression()
         self.next_sentiment_time = datetime.now()
 
